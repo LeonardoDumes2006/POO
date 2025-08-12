@@ -1,7 +1,7 @@
 package Lista2;
 import java.util.Scanner;
 
-public class atividade1 {
+public class Atividade1 {
 
 	public static void main(String[] args) {
 		/*
@@ -22,6 +22,8 @@ public class atividade1 {
 			maior = num2;
 		
 		System.out.println("O maior número é : " + maior);
+		
+		en.close();
 	}
 
 }

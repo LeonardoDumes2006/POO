@@ -1,7 +1,7 @@
 package Lista1;
 import java.util.Scanner;
 
-public class atividade1 {
+public class Atividade1 {
 
 	public static void main(String[] args) {
 		//1. Faça um Programa que mostre a mensagem "Alo mundo" na tela.

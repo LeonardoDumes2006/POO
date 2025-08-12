@@ -1,7 +1,7 @@
 package Lista2;
 import java.util.Scanner;
 
-public class atividade9 {
+public class Atividade9 {
 	public static void main(String[] args) {
 		/*
 		 * 9. Tendo como dado de entrada a altura, peso e sexo, construa um algoritmo que calcule

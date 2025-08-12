@@ -1,7 +1,7 @@
 package Lista2;
 import java.util.Scanner;
 
-public class atividade5 {
+public class Atividade5 {
 	public static void main(String[] args) {
 		/*
 		 * 5. Faça um Programa que verifique se uma letra digitada é vogal.
@@ -19,6 +19,7 @@ public class atividade5 {
 			
 		}else 
 			retorno = "consoante";
+		
 		
 		System.out.println("A letra é  " + retorno);
 	}

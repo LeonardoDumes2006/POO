@@ -1,7 +1,7 @@
 package Lista2;
 import java.util.Scanner;
 
-public class atividade8 {
+public class Atividade8 {
 	public static void main(String[] args) {
 		/*
 		 * 8. Faça um programa para a leitura de duas notas parciais de um aluno. O programa deve

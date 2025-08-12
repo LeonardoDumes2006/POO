@@ -1,7 +1,7 @@
 package Lista1;
 import java.util.Scanner;
 
-public class atividade9 {
+public class Atividade9 {
 
 	public static void main(String[] args) {
 		//9. Faça um Programa que peça a temperatura em graus Farenheit, transforme e mostre a

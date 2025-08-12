@@ -41,5 +41,7 @@ public class Atividade18 {
 		}else
 			System.out.println("Os lados informados não formam um triângulo");
 		
+		en.close();
+		
 	}
 }

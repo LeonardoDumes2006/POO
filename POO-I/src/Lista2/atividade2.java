@@ -1,7 +1,7 @@
 package Lista2;
 import java.util.Scanner;
 
-public class atividade2 {
+public class Atividade2 {
 
 	public static void main(String[] args) {
 		/*
@@ -22,6 +22,8 @@ public class atividade2 {
 			resultado = "neutro";
 		
 		System.out.println("O número é : " + resultado);
+		
+		en.close();
 
 	}
 

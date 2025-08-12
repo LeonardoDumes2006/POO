@@ -1,7 +1,7 @@
 package Lista1;
 import java.util.Scanner;
 
-public class atividade3 {
+public class Atividade3 {
 	public static void main(String[] args) {
 		//3. Faça um Programa que peça dois números e imprima a soma.
 		

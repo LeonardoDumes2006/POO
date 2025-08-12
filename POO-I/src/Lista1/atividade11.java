@@ -1,7 +1,7 @@
 package Lista1;
 import java.util.Scanner;
 
-public class atividade11 {
+public class Atividade11 {
 
 	public static void main(String[] args) {
 		//11.Tendo como dados de entrada a altura de uma pessoa, construa um algoritmo que

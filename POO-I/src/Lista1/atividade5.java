@@ -1,7 +1,7 @@
 package Lista1;
 import java.util.Scanner;
 
-public class atividade5 {
+public class Atividade5 {
 
 	public static void main(String[] args) {
 		// 5. Faça um Programa que converta metros para centímetros.

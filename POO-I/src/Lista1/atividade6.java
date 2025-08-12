@@ -1,7 +1,7 @@
 package Lista1;
 import java.util.Scanner;
 
-public class atividade6 {
+public class Atividade6 {
 	public static void main(String[] args) {
 		//6. Faça um Programa que peça o raio de um círculo, calcule e mostre sua área.
 		

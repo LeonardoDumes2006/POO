@@ -1,7 +1,7 @@
 package Lista1;
 import java.util.Scanner;
 
-public class atividade12 {
+public class Atividade12 {
 
 	public static void main(String[] args) {
 		// 12.Tendo como dado de entrada a altura, construa um algoritmo que calcule seu peso ideal,

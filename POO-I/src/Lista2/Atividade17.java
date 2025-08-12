@@ -48,5 +48,7 @@ public class Atividade17 {
 				System.out.println("Média : " + media);
 				System.out.println("Conceito : " + conceito);
 				System.out.println("Situação : " + situacao );
+				
+				en.close();
 	}
 }

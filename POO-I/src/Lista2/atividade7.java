@@ -1,7 +1,7 @@
 package Lista2;
 import java.util.Scanner;
 
-public class atividade7 {
+public class Atividade7 {
     public static void main(String[] args) {
         /*
          * 7. Faça um Programa que leia três números e mostre-os em ordem decrescente.

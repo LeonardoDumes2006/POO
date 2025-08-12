@@ -1,7 +1,7 @@
 package Lista2;
 import java.util.Scanner;
 
-public class atividade6 {
+public class Atividade6 {
     public static void main(String[] args) {
         /*
          * 6. Faça um Programa que peça um número inteiro e se este número for par, transforme-o

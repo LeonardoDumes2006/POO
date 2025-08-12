@@ -30,5 +30,6 @@ public class Atividade23 {
 		}else 
 			System.out.println("Turma Idosa!");
 			
+		en.close();
 	}
 }

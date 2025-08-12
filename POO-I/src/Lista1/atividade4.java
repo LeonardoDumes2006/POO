@@ -1,7 +1,7 @@
 package Lista1;
 import java.util.Scanner;
 
-public class atividade4 {
+public class Atividade4 {
 	public static void main(String[] args) {
 		// 4. Faça um Programa que peça as 4 notas bimestrais e mostre a média.
 

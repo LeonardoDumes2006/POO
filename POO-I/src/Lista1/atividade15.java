@@ -1,7 +1,7 @@
 package Lista1;
 import java.util.Scanner;
 
-public class atividade15 {
+public class Atividade15 {
 
 	public static void main(String[] args) {
 		/*

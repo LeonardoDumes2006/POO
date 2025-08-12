@@ -1,7 +1,7 @@
 package Lista2;
 import java.util.Scanner;
 
-public class atividade11 {
+public class Atividade11 {
 	public static void main(String[] args) {
 		/*
 		 * 11.Faça um Programa que pergunte em que turno você estuda. Peça para digitar M-
@@ -22,5 +22,22 @@ public class atividade11 {
 			System.out.println("Boa Tarde!");
 		}else 
 			System.out.println("Boa noite!");
+		
+		switch(letra) {
+        case "M":
+            System.out.println("Bom Dia!");
+            break;
+        case "V":
+            System.out.println("Boa Tarde!");
+            break;
+        case "N":
+            System.out.println("Boa Noite!");
+            break;
+        default:
+            System.out.println("Turno inválido! Digite M, V ou N.");
+    
+		}
+		
+		en.close();
 	}
 }

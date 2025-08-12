@@ -1,7 +1,7 @@
 package Lista1;
 import java.util.Scanner;
 
-public class atividade13 {
+public class Atividade13 {
 
 	public static void main(String[] args) {
 		/* 13.João Papo-de-Pescador, homem de bem, comprou um microcomputador para controlar o

@@ -31,5 +31,7 @@ public class Atividade24 {
 		}else if ( media >= 7) {
 			System.out.println("Aprovado");
 		}
+		
+		en.close();
 	}
 }

@@ -1,7 +1,7 @@
 package Lista1;
 import java.util.Scanner;
 
-public class atividade10 {
+public class Atividade10 {
 
 	public static void main(String[] args) {
 		//10. Faça um Programa que peça 2 números inteiros e um número real. Calcule e mostre:
