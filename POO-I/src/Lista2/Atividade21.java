@@ -3,6 +3,10 @@ import java.util.Scanner;
 
 public class Atividade21 {
     public static void main(String[] args) {
+    	/*
+    	 * 21. Faça um Programa que peça uma data no formato dd/mm/aaaa e determine se a mesma
+			é uma data válida.
+    	 */
         Scanner en = new Scanner(System.in);
         
         System.out.println("Digite uma data no formato dd/mm/aaaa:");

@@ -9,7 +9,6 @@ public class Atividade16 {
     	média. De 0 a 3 - Reprovado, de 3 a 6.9 - Em Exame, de 7 a 10 - Aprovado
     	 */
 
-    	
         Scanner en = new Scanner(System.in);
 
         System.out.println("Digite a primeira nota:");
@@ -17,8 +16,6 @@ public class Atividade16 {
 
         System.out.println("Digite a segunda nota:");
         double nota2 = en.nextDouble();
-
-    
 
         double media = (nota1 + nota2) / 2;
 
