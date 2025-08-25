@@ -30,7 +30,7 @@ public class Teste {
 		 
 		int result = 0;
 		int aux = 0;
-		
+		/*
 		aux = numf;
 		fim = incio;
 		inicio = fim;
