@@ -1,0 +1,33 @@
+Produto 1 do mercado 1: 2.0 reais
+Produto 2 do mercado 1: 2.0 reais
+Produto 3 do mercado 1: 2.0 reais
+Produto 4 do mercado 1: 2.0 reais
+Produto 5 do mercado 1: 2.0 reais
+Produto 1 do mercado 2: 3.0 reais
+Produto 2 do mercado 2: 3.0 reais
+Produto 3 do mercado 2: 3.0 reais
+Produto 4 do mercado 2: 3.0 reais
+Produto 5 do mercado 2: 3.0 reais
+Produto 1 do mercado 3: 4.0 reais
+Produto 2 do mercado 3: 4.0 reais
+Produto 3 do mercado 3: 4.0 reais
+Produto 4 do mercado 3: 4.0 reais
+Produto 5 do mercado 3: 4.0 reais
+Produto 1 do mercado 4: 5.0 reais
+Produto 2 do mercado 4: 5.0 reais
+Produto 3 do mercado 4: 5.0 reais
+Produto 4 do mercado 4: 5.0 reais
+Produto 5 do mercado 4: 5.0 reais
+Produto 1 do mercado 5: 6.0 reais
+Produto 2 do mercado 5: 6.0 reais
+Produto 3 do mercado 5: 6.0 reais
+Produto 4 do mercado 5: 6.0 reais
+Produto 5 do mercado 5: 6.0 reais
+Média de preços por produto: 4.0
+Soma de preços do mercado 1: 10.0
+Soma de preços do mercado 2: 15.0
+Soma de preços do mercado 3: 20.0
+Soma de preços do mercado 4: 25.0
+Soma de preços do mercado 5: 30.0
+Supermercado mais barato: 10.0
+Supermercado mais caro: 30.0
