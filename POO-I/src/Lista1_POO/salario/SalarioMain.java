@@ -1,4 +1,4 @@
-package Lista1_POO.Salario;
+package Lista1_POO.salario;
 import java.util.Scanner;
 
 public class SalarioMain {

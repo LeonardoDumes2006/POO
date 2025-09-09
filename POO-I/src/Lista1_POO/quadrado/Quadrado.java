@@ -1,4 +1,4 @@
-package Lista1_POO.Quadrado;
+package Lista1_POO.quadrado;
 
 public class Quadrado {
 	private int lado = 0;

@@ -1,4 +1,4 @@
-package Lista1_POO.Quadrado;
+package Lista1_POO.quadrado;
 import java.util.Scanner;
 
 public class QuadradoMain {

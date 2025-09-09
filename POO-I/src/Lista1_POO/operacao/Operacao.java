@@ -1,4 +1,4 @@
-package Lista1_POO.Operacao;
+package Lista1_POO.operacao;
 
 public class Operacao {
 	private int num1 = 0;

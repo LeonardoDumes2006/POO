@@ -1,4 +1,4 @@
-package Lista1_POO.Operacao;
+package Lista1_POO.operacao;
 import java.util.Scanner;
 
 public class OperacaoMain {

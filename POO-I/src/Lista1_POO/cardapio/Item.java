@@ -1,4 +1,4 @@
-package Lista1_POO.Cardapio;
+package Lista1_POO.cardapio;
 
 public class Item {
     private int codigo;

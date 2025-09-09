@@ -1,4 +1,4 @@
-package Lista1_POO.Cardapio;
+package Lista1_POO.cardapio;
 import java.util.HashMap;
 import java.util.Map;
 

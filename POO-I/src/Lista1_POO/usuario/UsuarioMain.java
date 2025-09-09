@@ -1,4 +1,4 @@
-package Lista1_POO.Usuario;
+package Lista1_POO.usuario;
 import java.util.Scanner;
 
 public class UsuarioMain {

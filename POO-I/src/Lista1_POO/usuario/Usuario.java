@@ -1,4 +1,4 @@
-package Lista1_POO.Usuario;
+package Lista1_POO.usuario;
 
 public class Usuario {
 	private String nome = "";

@@ -1,4 +1,4 @@
-package Lista1_POO.Intervalo;
+package Lista1_POO.intervalo;
 import java.util.Scanner;
 import java.util.Arrays;
 

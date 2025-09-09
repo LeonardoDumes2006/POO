@@ -1,4 +1,4 @@
-package Lista1_POO.Intervalo;
+package Lista1_POO.intervalo;
 
 public class IntervaloNumeros {
 	private int num1 = 0;
