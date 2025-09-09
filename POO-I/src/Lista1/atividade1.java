@@ -9,6 +9,7 @@ public class Atividade1 {
 		
 		System.out.println("Alo mundo");
 		
+		
 		en.close();
 		
 		

@@ -10,7 +10,7 @@ public class Atividade1 {
 		 */
 		Scanner en = new Scanner(System.in);
 		
-		float nota = 0;
+		float nota ;
 		do {
 			
 		System.out.print("Informe uma nota ( 0 a 10 ) : ");
