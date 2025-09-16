@@ -4,14 +4,13 @@ public class Cone {
     private double raio = 1.0;
     private double altura = 2.0;
     private int tipo = 1;
+    
     final double PI = 3.14;
-
     final double RENDIMENTO = 3.45; 
     final double LATA = 18.0;  
     final double TIPO1 = 238.90;
     final double TIPO2 = 467.98;
     final double TIPO3 = 758.34;
-    
     
     public Cone() {
     	
@@ -30,6 +29,7 @@ public class Cone {
     public double getRaio() { 
     	return raio;
     }
+    
     public void setRaio(double raio) {
     	this.raio = raio;
     }
@@ -84,21 +84,30 @@ public class Cone {
         }
         return latas() * preco;
     }
+	@Override
+	public String toString() {
+		StringBuilder builder = new StringBuilder();
+		builder.append("Cone [raio=");
+		builder.append(raio);
+		builder.append(", altura=");
+		builder.append(altura);
+		builder.append(", tipo=");
+		builder.append(tipo);
+		builder.append(", PI=");
+		builder.append(PI);
+		builder.append(", RENDIMENTO=");
+		builder.append(RENDIMENTO);
+		builder.append(", LATA=");
+		builder.append(LATA);
+		builder.append(", TIPO1=");
+		builder.append(TIPO1);
+		builder.append(", TIPO2=");
+		builder.append(TIPO2);
+		builder.append(", TIPO3=");
+		builder.append(TIPO3);
+		builder.append("]");
+		return builder.toString();
+	}
 
-    @Override
-    public String toString() {
-        return  "Cone\n" +
-                "Raio: " + raio + "\n" +
-                "Altura: " + altura + "\n" +
-                "Nível: " + tipo + "\n" +
-                "----------------------\n" +
-                "Geratriz: " + g() + "\n" +
-                "Área do Fundo: " + areaFundo() + "\n" +
-                "Área Lateral: " + areaLateral() + "\n" +
-                "Área Total: " + areaTotal() + "\n" +
-                "----------------------\n" +
-                "Litros: " + litros() + "\n" +
-                "Latas: " + latas() + "\n" +
-                "Preço Total: " + precoTotal() + "\n";
-    }
+   
 }
