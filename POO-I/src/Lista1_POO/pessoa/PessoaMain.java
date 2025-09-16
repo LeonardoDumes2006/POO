@@ -10,6 +10,15 @@ public class PessoaMain {
 			for menor que 21 anos ela deve crescer 0,5 cm por ano.
 		 */
 		Pessoa p = new Pessoa("Leo", 18, 72.0, 1.8);
+		Pessoa pessoa = new Pessoa();
+		Pessoa people = new Pessoa(20, 1.9);
+		
+		System.out.println(p);
+		System.out.println(pessoa);
+		System.out.println(people);
+		
+		
+		System.out.println("------- Separar -------");
 		 p.envelhecer(2); 
 	        p.engordar(2);  
 	        p.emagrecer(1);

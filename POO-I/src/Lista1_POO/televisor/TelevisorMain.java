@@ -12,6 +12,8 @@ public class TelevisorMain {
          */
 
         Scanner input = new Scanner(System.in);
+        
+        
         Televisor tv = new Televisor();
 
         int opcao;

@@ -3,16 +3,14 @@ package Lista1_POO.bombacombustivel;
 public class BombaCombustivel {
     private String tipoCombustivel;
     private double valorLitro;
-    private double quantidadeCombustivel; // em litros
-
-    // Construtor
+    private double quantidadeCombustivel;
+    
     public BombaCombustivel(String tipoCombustivel, double valorLitro, double quantidadeCombustivel) {
         this.tipoCombustivel = tipoCombustivel;
         this.valorLitro = valorLitro;
         this.quantidadeCombustivel = quantidadeCombustivel;
     }
 
-    // Getters
     public String getTipoCombustivel() {
         return tipoCombustivel;
     }
@@ -25,7 +23,6 @@ public class BombaCombustivel {
         return quantidadeCombustivel;
     }
 
-    // Métodos de alteração
     public void alterarValor(double novoValor) {
         if (novoValor > 0) {
             this.valorLitro = novoValor;
@@ -50,7 +47,6 @@ public class BombaCombustivel {
         }
     }
 
-    // Métodos de abastecimento
     public void abastecerPorValor(double valor) {
         if (valor <= 0) {
             System.out.println("Valor inválido para abastecimento!");

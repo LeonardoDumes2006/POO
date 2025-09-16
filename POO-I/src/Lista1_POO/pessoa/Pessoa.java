@@ -6,6 +6,15 @@ public class Pessoa {
 	private double peso = 0;
 	private double altura = 0;
 	
+	public Pessoa() {
+		
+	}
+	
+	 public Pessoa( int idade, double altura) {
+		this.idade = idade;
+		this.altura = altura;
+	}
+
 	 public Pessoa(String nome, int idade, double peso, double altura) {
 	       this.nome = nome;
 	       this.idade = idade;

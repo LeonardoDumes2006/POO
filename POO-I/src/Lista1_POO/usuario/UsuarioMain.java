@@ -11,6 +11,8 @@ public class UsuarioMain {
         Scanner input = new Scanner(System.in);
         
         Usuario user = new Usuario();
+        Usuario u = new Usuario("Leonardo", " Dumes");
+        System.out.println(u);
         
         System.out.print("Digite seu nome: ");
         user.setNome(input.nextLine());

@@ -4,6 +4,16 @@ public class IntervaloNumeros {
 	private int num1 = 0;
 	private int num2 = 0;
 	
+	public IntervaloNumeros() {
+		
+	}
+	
+	public IntervaloNumeros(int num1, int num2) {
+		setNum1(num1);
+		setNum2(num2);
+	}
+	
+
 	public int getNum1() {
 		return num1;
 	}
@@ -37,5 +47,17 @@ public class IntervaloNumeros {
 			
 		}
 		return vet;
+		
+		
+	}
+	@Override
+	public String toString() {
+		StringBuilder builder = new StringBuilder();
+		builder.append("IntervaloNumeros [num1=");
+		builder.append(num1);
+		builder.append(", num2=");
+		builder.append(num2);
+		builder.append("]");
+		return builder.toString();
 	}
 }

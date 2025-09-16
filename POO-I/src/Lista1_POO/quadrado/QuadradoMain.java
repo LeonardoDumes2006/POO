@@ -10,6 +10,9 @@ public class QuadradoMain {
 		 */
 		Scanner input = new Scanner(System.in);
 		Quadrado q = new Quadrado();
+		Quadrado quadrado = new Quadrado(5);
+		System.out.println(quadrado);
+		
 		System.out.println("Digite o tamanho do lado: ");
 		q.setLado(input.nextInt());
 		

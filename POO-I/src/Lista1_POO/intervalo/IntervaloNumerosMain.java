@@ -13,6 +13,8 @@ public class IntervaloNumerosMain {
 		Scanner input = new Scanner(System.in);
         
         IntervaloNumeros intervalo = new IntervaloNumeros();
+        IntervaloNumeros inter = new IntervaloNumeros(1,10);
+        System.out.println(inter);
         
         System.out.print("Digite o primeiro número: ");
         intervalo.setNum1(input.nextInt());
