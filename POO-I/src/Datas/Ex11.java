@@ -7,5 +7,11 @@ public class Ex11 {
 		DateTimeFormatter dtfDataBrasil = DateTimeFormatter.ofPattern("dd/MM/yyyy");
 		LocalDate dt = LocalDate.parse("24/04/1978", dtfDataBrasil);
 		System.out.println(dt);
+		
+		public int calculaSabado() {
+			for(int i = 0; i < diferença(datafinal, datainicial); i++) {
+				
+			}
+		}
 	}
 }
