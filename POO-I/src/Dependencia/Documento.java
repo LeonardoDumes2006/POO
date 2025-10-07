@@ -1,0 +1,28 @@
+package Dependencia;
+
+public class Documento {
+	private String texto;
+	
+	public Documento(String texto) {
+		this.texto = texto;
+	}
+
+	public String getTexto() {
+		return texto;
+	}
+
+	public void setTexto(String texto) {
+		this.texto = texto;
+	}
+
+	@Override
+	public String toString() {
+		StringBuilder builder = new StringBuilder();
+		builder.append("Documento [texto=");
+		builder.append(texto);
+		builder.append("]");
+		return builder.toString();
+	}
+	
+	
+}

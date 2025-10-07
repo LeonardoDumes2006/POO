@@ -1,5 +1,5 @@
 package GeneralizacaoPessoa;
 
-public class PessoaJuridica {
-
+public class PessoaJuridica extends Pessoa{
+	
 }

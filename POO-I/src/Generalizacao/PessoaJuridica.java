@@ -1,11 +1,7 @@
 package Generalizacao;
 
-public class PessoaJuridica extends Pessoa{
+public class PessoaJuridica {
 	private String cnpj;
-
-	public PessoaJuridica(String nome) {
-		super(nome);
-	}
 	
 	public String getCnpj() {
 		return cnpj;
